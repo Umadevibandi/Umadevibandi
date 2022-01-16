@@ -1,3 +1,4 @@
+//Write a java program which will take a string as input and will convert it into other primitive data types.
 package assignProj;
 
 public class conversionOfPrimitiveDatatypes {
